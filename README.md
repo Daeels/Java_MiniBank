@@ -4,7 +4,7 @@ Welcome to Java_MiniBank! This is a simple Java program that simulates a banking
 
 ![Screenshot](home.png)
 
-* Diagrams : 
+## Diagrams : 
 
 I- Class Diagram:
 
@@ -47,7 +47,7 @@ cd Java_MiniBank
 javac Main.java
 ```
 
-Usage 📝
+## Usage 📝
 To run the program, simply execute the Main class:
 
 ```bash
@@ -57,7 +57,7 @@ The program will display a menu with options for creating an account, depositing
 
 For a detailed explanation of how to use the app, please watch this [video tutorial](https://drive.google.com/file/d/1i0koLdLDM8kq4GCY6W2hYjOWxcEqN1cP/view?usp=sharing).
 
-Contact 📧
+## Contact 📧
 If you have any questions or concerns, please feel free to contact me at [ilyasirgui@gmail.com](mailto:ilyasirgui@gmail.com).
 
 
